@@ -3,10 +3,10 @@
 This is an academic project created as part of university coursework. This is **NOT** the official website of Ganthiriyagama National College.
 
 ## Academic Project Details
-- **University**: [Your University Name]
-- **Course**: [Course Name/Code]
+- **University**: Cardiff Metropolitan University
+- **Course**: CSE
 - **Year**: 2024
-- **Student**: [Your Name]
+- **Student**: Vihanga Wimalaweera
 
 ## Project Overview
 A responsive website design for Ganthiriyagama National College, created as an academic exercise to demonstrate web development skills.
